@@ -205,8 +205,7 @@ for (cl in 1:max(clusters$cluster)) {
   hpos_tab = disease_HPO[,1]
   tbl = table(hpos_tab)
   tbl = tbl[which(tbl >= sort(tbl, decreasing = T)[number_of_hpos])]
-  tbl = tbl[1:(number_of_hpos - 1)]
-  tbl = sort(tbl)
+  tbl = sort(tbl, decreasing = T)[1:(number_of_hpos - 1)]
   number_of_hits = sapply(1:nrow(result_without_disease), function(i) {
     which.min(distances[1:number_of_clusters,number_of_clusters + i])
   })
@@ -214,7 +213,7 @@ for (cl in 1:max(clusters$cluster)) {
   matrix_of_clusters = rbind(matrix_of_clusters, c(cl, vector_of_hpos_to_write_out, sum(number_of_hits == cl)))
 }
 
-colnames(matrix_of_clusters) = c("Cluster","5th common HPO", "4th common HPO", "3rd common HPO", "2nd common HPO", "1st common HPO", "Number of")
+colnames(matrix_of_clusters) = c("Cluster","1st common HPO", "2nd common HPO", "3rd common HPO", "4th common HPO", "5th common HPO", "Number of patients in the cluster")
 write.table(file="./images/clusters.txt", matrix_of_clusters, quote=F, row.names=F, col.names=T, sep="\t")
 
 
