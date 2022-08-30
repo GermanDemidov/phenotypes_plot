@@ -4,11 +4,41 @@ Scripts for making nice plots of cohorts of patients based on HPO terms
 
 # Examples
 
-Grey dots = diseases from OMIM or ORPHA ( http://purl.obolibrary.org/obo/hp/hpoa/genes_to_phenotype.txt ). Colored dots = patients from your cohort. 
+A small random subsample of an in-house IMGAG database was used to generate these plots.
+
+Grey dots = diseases from OMIM or ORPHA ( http://purl.obolibrary.org/obo/hp/hpoa/genes_to_phenotype.txt ). Colored dots = patients from your cohort. 60 clusters k-means is used to generate labels (mainly for illustration puproses) - you can put your own labels on the plot without labels.
 
 ## Cohort plot based on predefined disease group annotation
 
+Disease groups annotated manually by submitters.
+
+### With cluster labels
+
+![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_with_cluster_labels.svg)
+<img src="https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_with_cluster_labels.svg">
+
+### Without cluster labels
+
+![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_without_cluster_labels.svg)
+<img src="https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_without_cluster_labels.svg">
+
+
+
+
 ## Cohort plot based on automatically generated with HPO terms disease group annotation
+
+### With cluster labels
+
+Groups defined by 3 HPO terms (Ataxia, Spasticity, Dystonia):
+
+![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_with_cluster_labels_disease_groups.svg)
+<img src="https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_with_cluster_labels_disease_groups.svg">
+
+### Without cluster labels
+
+![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_without_cluster_labels_disease_groups.svg)
+<img src="https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_without_cluster_labels_disease_groups.svg">
+
 
 # What do you need
 
