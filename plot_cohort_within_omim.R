@@ -10,17 +10,15 @@ library(ggrepel)
 
 # THE NEXT BLOCK IS A CONFIG, CHANGE IT TO YOUR PATHS
 # Path to hp.obo from HPO
-hpo <- get_ontology("/mnt/users/ahdemig1/forBenita/height_of_hpos/hp.obo")
+hpo <- get_ontology("/path_to_downloaded_files/hp.obo")
 # Path to the file with the cohort
-data_for_plotting <- read.table("/mnt/users/ahdemig1/rvas/rvasDystonia202207/NGSD150722_only_research.txt", header=T, sep="\t", comment.char="&", fill=T, quote="\"")
-print(dim(data_for_plotting))
-data_for_plotting = data_for_plotting[1:2000,]
+data_for_plotting <- read.table("/path_to_database/database.tsv", header=T, sep="\t", comment.char="&", fill=T, quote="\"")
 # A column with the sample IDs
 index_of_IDs = which(colnames(data_for_plotting) == "X.name")
 # A column with the 
 index_of_hpos = which(colnames(data_for_plotting) == "disease_details_HPO_term_id")
-# HPOs to disease cathegory
-disease_cathegory_doc <- read.table("./HPOs.disease.tsv", comment.char="?")
+# HPOs to disease cathegory - COMMENT if you use manual annotated disease groups
+disease_cathegory_doc <- read.table("/path_to_generated_with_create_hpo_list_for_annotationR/HPOs.disease.tsv", comment.char="?")
 number_of_clusters = 60
 
 
@@ -30,7 +28,7 @@ number_of_clusters = 60
 
 # CODE - DON'T CHANGE ANYTHING IF YOU JUST WANT A PLOT
 blacklist_hpos = c("HP:0000006", "HP:0000007", "HP:0001417", "HP:0001419", "HP:0001423", "HP:0001428", "HP:0001450", "HP:0003593")
-gene_to_pheno <- read.table("/mnt/users/ahdemig1/forBenita/pheno_plot_22_07_27/genes_to_phenotype.txt", sep="\t", quote="")
+gene_to_pheno <- read.table("/path_to_downloaded_files/genes_to_phenotype.txt", sep="\t", quote="")
 gene_to_pheno = gene_to_pheno[-which(gene_to_pheno[,3] %in% blacklist_hpos), ]
 
 
