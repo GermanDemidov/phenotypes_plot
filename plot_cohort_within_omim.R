@@ -31,7 +31,6 @@ blacklist_hpos = c("HP:0000006", "HP:0000007", "HP:0001417", "HP:0001419", "HP:0
 gene_to_pheno <- read.table("/path_to_downloaded_files/genes_to_phenotype.txt", sep="\t", quote="")
 gene_to_pheno = gene_to_pheno[-which(gene_to_pheno[,3] %in% blacklist_hpos), ]
 
-
 only_phenotypes_hpo = get_descendants(hpo, "HP:0000118", exclude_roots = FALSE)
 
 
@@ -76,7 +75,7 @@ for (name in patients_to_show) {
   hpo_numbers = hpo_numbers[which(hpo_numbers %in% hpo$id & !hpo_numbers %in% blacklist_hpos & hpo_numbers %in% only_phenotypes_hpo)]
   hpo_numbers = sort(hpo_numbers)
   
-  #disease_cathegory_current = annotate_cathegory_manually(name)
+  disease_cathegory_current = annotate_cathegory_manually(name)
   
   disease_cathegory_current = annotate_cathegory(hpo_numbers)
   
