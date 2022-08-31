@@ -15,9 +15,9 @@ Disease groups annotated manually by submitters.
 ### With cluster labels
 
 
-![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_with_cluster_labels_disease_groups.svg)
+![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/44c76a8b260756fa623f6a12208d04e483da841d/images/cohort_with_cluster_labels_disease_groups.svg)
 ### Without cluster labels
-![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_without_cluster_labels_disease_groups.svg)
+![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/44c76a8b260756fa623f6a12208d04e483da841d/images/cohort_without_cluster_labels_disease_groups.svg)
 
 
 
@@ -28,11 +28,11 @@ Disease groups annotated manually by submitters.
 
 Groups defined by 3 HPO terms (Ataxia, Spasticity, Dystonia):
 
-![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_with_cluster_labels.svg)
+![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/44c76a8b260756fa623f6a12208d04e483da841d/images/cohort_with_cluster_labels.svg)
 
 ### Without cluster labels
 
-![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/d5b33036cde570c527c5348751c7c325c5ebd827/images/cohort_without_cluster_labels.svg)
+![Alt text](https://raw.githubusercontent.com/GermanDemidov/phenotypes_plot/44c76a8b260756fa623f6a12208d04e483da841d/images/cohort_without_cluster_labels.svg)
 
 
 
