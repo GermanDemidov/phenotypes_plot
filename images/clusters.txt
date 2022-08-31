@@ -1,61 +1,81 @@
 Cluster	1st common HPO	2nd common HPO	3rd common HPO	4th common HPO	5th common HPO	Number of patients in the cluster
-1	58% Global developmental delay	52% Hypertelorism	48% Seizure	48% Low-set ears	45% Intellectual disability	0
-2	47% Dilated cardiomyopathy	44% Congestive heart failure	28% Atrial fibrillation	21% Left ventricular hypertrophy	21% Mitral regurgitation	0
-3	29% Brachydactyly	26% Platyspondyly	22% Short stature	19% Scoliosis	16% Genu valgum	0
-4	35% Hyperinsulinemic hypoglycemia	31% Seizure	27% Hepatomegaly	27% Intellectual disability	22% Failure to thrive	0
-5	41% Dysarthria	39% Bradykinesia	39% Rigidity	38% Parkinsonism	34% Dementia	60
-6	30% Acanthosis nigricans	27% Hepatomegaly	25% Hepatic steatosis	25% Hypertriglyceridemia	21% Diabetes mellitus	0
-7	66% Pes cavus	56% Distal sensory impairment	52% Areflexia	46% Hyporeflexia	45% Distal muscle weakness	2
-8	57% Global developmental delay	53% Seizure	35% Microcephaly	34% Generalized hypotonia	31% Intellectual disability	19
-9	56% Global developmental delay	50% Seizure	49% Increased serum lactate	43% Generalized hypotonia	42% Failure to thrive	2
-10	42% Hepatomegaly	36% Jaundice	33% Elevated hepatic transaminase	27% Cirrhosis	24% Failure to thrive	0
-11	62% Global developmental delay	58% Seizure	46% Microcephaly	40% Intellectual disability	32% Hypoplasia of the corpus callosum	5
-12	32% Proteinuria	32% Stage 5 chronic kidney disease	24% Renal insufficiency	21% Hypertension	21% Nephrotic syndrome	0
-13	26% Splenomegaly	20% Reticulocytosis	17% Jaundice	15% Hemolytic anemia	13% Hepatomegaly	0
-14	60% Dysarthria	49% Nystagmus	41% Global developmental delay	35% Hyperreflexia	34% Cerebellar atrophy	27
-15	85% Obesity	77% Rod-cone dystrophy	58% Hypogonadism	58% Intellectual disability	50% Global developmental delay	0
-16	49% Syncope	40% Sudden cardiac death	31% Ventricular fibrillation	22% Palpitations	21% Atrial fibrillation	0
-17	27% Immunodeficiency	21% Recurrent respiratory infections	19% Failure to thrive	18% Recurrent bacterial infections	16% Recurrent otitis media	0
-18	46% Scoliosis	37% Short stature	32% Micrognathia	25% Hypertelorism	25% Talipes equinovarus	0
-19	52% Global developmental delay	51% Lactic acidosis	47% Increased serum lactate	46% Seizure	42% Generalized hypotonia	3
-20	44% High palate	41% Ptosis	38% Motor delay	33% Facial palsy	33% Scoliosis	0
-21	47% Lethargy	46% Seizure	46% Vomiting	45% Hepatomegaly	39% Hyperammonemia	2
-22	67% Global developmental delay	46% Nystagmus	43% Intellectual disability	43% Seizure	34% Ataxia	32
-23	65% Elevated circulating creatine kinase concentration	31% EMG: myopathic abnormalities	27% Muscular dystrophy	26% Proximal muscle weakness	25% Increased variability in muscle fiber diameter	0
-24	36% Sensorineural hearing impairment	20% Hearing impairment	13% Heterochromia iridis	13% Vestibular dysfunction	12% Congenital sensorineural hearing impairment	0
-25	27% Hypercholesterolemia	24% Hypertriglyceridemia	22% Hypertension	17% Decreased HDL cholesterol concentration	17% Increased LDL cholesterol concentration	0
-26	40% Abdominal pain	20% Abdominal distention	19% Diarrhea	16% Vomiting	12% Nausea and vomiting	0
-27	39% Thrombocytopenia	25% Anemia	22% Splenomegaly	21% Bone marrow hypocellularity	21% Neutropenia	0
-28	36% Ventricular septal defect	30% Atrial septal defect	24% Patent ductus arteriosus	15% Tetralogy of Fallot	14% Hypoplastic left heart	0
-29	48% Global developmental delay	45% Failure to thrive	43% Intellectual disability	41% Generalized hypotonia	41% Seizure	0
-30	27% Nystagmus	23% Cataract	20% Reduced visual acuity	17% Glaucoma	17% Photophobia	0
-31	46% Elevated circulating creatine kinase concentration	37% Exercise intolerance	35% Myalgia	28% Muscle weakness	23% Dysphagia	2
-32	36% Seizure	29% Bilateral tonic-clonic seizure	23% Intellectual disability	21% Generalized non-motor (absence) seizure	16% Febrile seizure (within the age range of 3 months to 6 years)	3
-33	42% Short stature	25% Delayed skeletal maturation	16% Hypotonia	16% Intellectual disability	15% Decreased response to growth hormone stimulation test	1
-34	74% Dysarthria	52% Cerebellar atrophy	50% Nystagmus	39% Gait ataxia	36% Hyperreflexia	72
-35	50% Babinski sign	32% Hyperreflexia	31% Spastic paraplegia	27% Spastic gait	26% Dysarthria	187
-36	61% Global developmental delay	47% Intellectual disability	40% Seizure	34% Ataxia	26% Delayed speech and language development	110
-37	69% Global developmental delay	54% Seizure	42% Intellectual disability	42% Microcephaly	39% Strabismus	1
-38	64% Microcephaly	47% Seizure	45% Global developmental delay	41% Short stature	35% Intellectual disability	3
-39	13% Basal cell carcinoma	13% Lymphedema	12% Gingival overgrowth	10% Facial edema	10% Subcutaneous nodule	0
-40	54% Intellectual disability	48% Short stature	42% Seizure	31% Coarse facial features	31% Scoliosis	0
-41	41% Cleft palate	40% Hypertelorism	33% Micrognathia	24% Depressed nasal bridge	23% Low-set ears	1
-42	43% Primary amenorrhea	28% Cryptorchidism	26% Micropenis	25% Decreased testicular size	22% Hypogonadotropic hypogonadism	0
-43	29% Dysarthria	29% Torticollis	19% Limb dystonia	18% Tremor	18% Writer's cramp	65
-44	53% Intellectual disability	50% Seizure	48% Global developmental delay	22% Delayed speech and language development	17% Aggressive behavior	5
-45	65% Global developmental delay	47% Intellectual disability	44% Oculomotor apraxia	41% Generalized hypotonia	40% Molar tooth sign on MRI	3
-46	59% Global developmental delay	59% Seizure	55% Microcephaly	47% Failure to thrive	40% Generalized hypotonia	4
-47	49% Ataxia	34% Dysarthria	28% Cerebellar atrophy	24% Gait ataxia	15% Dysphagia	372
-48	17% Breast carcinoma	17% Colon cancer	15% Astrocytoma	13% Adenomatous colonic polyposis	12% Renal cell carcinoma	0
-49	54% Male infertility	23% Reduced sperm motility	21% Azoospermia	20% Oligospermia	17% Infertility	0
-50	57% Epistaxis	47% Bruising susceptibility	40% Menorrhagia	29% Joint hemorrhage	28% Thrombocytopenia	0
-51	32% Amelogenesis imperfecta	25% Hypodontia	21% Carious teeth	21% Enamel hypoplasia	21% Microdontia	0
-52	55% Hypertelorism	49% Cryptorchidism	44% Short stature	41% Micrognathia	39% Intellectual disability	0
-53	31% Sparse eyebrow	29% Sparse hair	27% Alopecia	27% Sparse eyelashes	19% Sparse scalp hair	0
-54	39% Short stature	25% Hearing impairment	23% Anemia	23% Microcephaly	22% Bone marrow hypocellularity	0
-55	38% Nyctalopia	35% Reduced visual acuity	31% Rod-cone dystrophy	24% Photophobia	21% Optic disc pallor	0
-56	84% Bronchiectasis	56% Ciliary dyskinesia	46% Situs inversus totalis	40% Recurrent otitis media	38% Recurrent sinusitis	0
-57	24% Nail dystrophy	21% Palmoplantar keratoderma	16% Erythema	15% Pruritus	15% Epidermal acanthosis	0
-58	48% Hypertension	42% Hypokalemia	35% Failure to thrive	26% Hyponatremia	26% Increased circulating renin level	0
-59	55% Microcephaly	54% Short stature	52% Intellectual disability	46% Global developmental delay	44% Seizure	0
-60	37% Splenomegaly	36% Arthralgia	36% Fever	30% Fatigue	29% Hepatomegaly	0
+1	62% Seizure	56% Global developmental delay	44% Microcephaly	38% Low-set ears	36% Hypertelorism	5
+2	30% Seizure	28% Bilateral tonic-clonic seizure	23% Intellectual disability	17% Generalized non-motor (absence) seizure	15% Anxiety	63
+3	45% Syncope	34% Sudden cardiac death	27% Ventricular fibrillation	25% Atrial fibrillation	22% Palpitations	34
+4	61% Short stature	30% Microcephaly	28% Intrauterine growth retardation	24% Bone marrow hypocellularity	21% Anemia	28
+5	100% Abdominal pain	75% Anxiety	75% Constipation	75% Tachycardia	62% Depression	1
+6	38% Torticollis	33% Dysarthria	24% Dysphagia	23% Myoclonus	23% Writer's cramp	79
+7	42% Lethargy	40% Hepatomegaly	39% Seizure	35% Hypotonia	35% Vomiting	17
+8	72% Pes cavus	62% Distal sensory impairment	55% Areflexia	50% Hyporeflexia	47% Distal muscle weakness	4
+9	57% Global developmental delay	54% Seizure	38% Generalized hypotonia	36% Microcephaly	31% Intellectual disability	52
+10	60% Global developmental delay	47% Short stature	42% Intellectual disability	40% Seizure	27% Failure to thrive	157
+11	22% Lymphedema	17% Varicose veins	14% Ascites	14% Facial edema	11% Angioedema	20
+12	63% Global developmental delay	54% Seizure	44% Nystagmus	38% Generalized hypotonia	36% Intellectual disability	41
+13	46% Intellectual disability	40% Global developmental delay	31% Delayed speech and language development	29% Seizure	18% Autistic behavior	306
+14	40% Thrombocytopenia	29% Anemia	26% Neutropenia	19% Bone marrow hypocellularity	19% Splenomegaly	38
+15	66% Global developmental delay	61% Nystagmus	41% Intellectual disability	39% Ataxia	38% Optic atrophy	40
+16	60% Global developmental delay	58% Seizure	50% Hypertelorism	46% Intellectual disability	46% Low-set ears	3
+17	45% Dilated cardiomyopathy	37% Congestive heart failure	23% Atrial fibrillation	20% Left ventricular hypertrophy	17% Sudden cardiac death	47
+18	28% Immunodeficiency	19% Recurrent respiratory infections	19% Failure to thrive	18% Recurrent bacterial infections	16% Lymphadenopathy	24
+19	58% Short stature	57% Hypertelorism	52% Cryptorchidism	52% Intellectual disability	48% Global developmental delay	8
+20	63% Failure to thrive	59% Global developmental delay	56% Seizure	46% Lactic acidosis	41% Generalized hypotonia	11
+21	49% Ptosis	39% High palate	34% Dysphagia	34% Facial palsy	32% Motor delay	20
+22	59% Global developmental delay	56% Seizure	47% Lactic acidosis	43% Failure to thrive	41% Generalized hypotonia	11
+23	57% Global developmental delay	48% Microcephaly	43% Seizure	42% Intellectual disability	32% Delayed speech and language development	205
+24	65% Elevated circulating creatine kinase concentration	28% Proximal muscle weakness	27% EMG: myopathic abnormalities	27% Muscular dystrophy	25% Increased variability in muscle fiber diameter	45
+25	16% Bone pain	15% Amelogenesis imperfecta	14% Enamel hypoplasia	13% Elevated circulating alkaline phosphatase concentration	11% Cleft palate	13
+26	45% Failure to thrive	37% Diarrhea	37% Vomiting	26% Dehydration	24% Villous atrophy	5
+27	47% Splenomegaly	34% Reticulocytosis	29% Hemolytic anemia	28% Jaundice	20% Hepatomegaly	10
+28	16% Hypercalcemia	16% Nephrolithiasis	15% Renal insufficiency	13% Hydronephrosis	13% Oligohydramnios	21
+29	36% Ventricular septal defect	30% Atrial septal defect	26% Patent ductus arteriosus	17% Bicuspid aortic valve	15% Tetralogy of Fallot	44
+30	49% Short stature	29% Delayed skeletal maturation	24% Decreased response to growth hormone stimulation test	21% Global developmental delay	21% Intellectual disability	18
+31	47% Nystagmus	40% Albinism	30% Heterochromia iridis	30% Photophobia	28% Hypoplasia of the fovea	3
+32	47% Elevated circulating creatine kinase concentration	40% Myalgia	32% Muscle weakness	25% Muscle spasm	23% Myoglobinuria	74
+33	61% Seizure	47% Global developmental delay	47% Intellectual disability	21% Generalized hypotonia	18% Absent speech	103
+34	25% Intrauterine growth retardation	22% Hyperglycemia	17% Diabetes mellitus	15% Maturity-onset diabetes of the young	12% Acanthosis nigricans	23
+35	54% Dysarthria	51% Nystagmus	34% Cerebellar atrophy	34% Optic atrophy	33% Ataxia	12
+36	54% Parkinsonism	49% Bradykinesia	49% Rigidity	37% Dysarthria	35% Postural instability	90
+37	58% Global developmental delay	57% Microcephaly	48% Seizure	46% Short stature	33% Hypotonia	85
+38	71% Short stature	69% Microcephaly	51% Global developmental delay	46% Intellectual disability	23% Intrauterine growth retardation	111
+39	68% Global developmental delay	56% Microcephaly	55% Seizure	40% Generalized hypotonia	35% Hypoplasia of the corpus callosum	13
+40	16% Colon cancer	15% Breast carcinoma	13% Astrocytoma	12% Adenomatous colonic polyposis	11% Renal cell carcinoma	113
+41	63% Microcephaly	60% Global developmental delay	59% Seizure	37% Ventriculomegaly	36% Hypoplasia of the corpus callosum	11
+42	53% Coarse facial features	49% Intellectual disability	41% Seizure	38% Global developmental delay	35% Dysostosis multiplex	1
+43	44% Primary amenorrhea	40% Delayed puberty	35% Gynecomastia	29% Osteoporosis	27% Osteopenia	7
+44	60% Amyotrophic lateral sclerosis	38% Dysarthria	32% Dysphagia	32% Fasciculations	28% Abnormal lower motor neuron morphology	39
+45	63% Global developmental delay	52% Generalized hypotonia	47% Seizure	35% Intellectual disability	31% Epileptic encephalopathy	148
+46	56% Global developmental delay	52% Seizure	48% Microcephaly	32% Generalized hypotonia	31% Intellectual disability	81
+47	64% Global developmental delay	62% Strabismus	50% Seizure	48% Intellectual disability	47% Nystagmus	37
+48	52% Ataxia	43% Dysarthria	24% Dementia	22% Seizure	22% Spasticity	148
+49	44% Fever	34% Splenomegaly	33% Lymphadenopathy	31% Arthralgia	27% Fatigue	49
+50	38% Primary amenorrhea	35% Cryptorchidism	31% Micropenis	26% Decreased testicular size	22% Hypogonadotropic hypogonadism	14
+51	64% Bronchiectasis	36% Ciliary dyskinesia	29% Cough	29% Situs inversus totalis	26% Neonatal respiratory distress	21
+52	38% Stage 5 chronic kidney disease	37% Proteinuria	24% Renal insufficiency	22% Nephrotic syndrome	19% Hypertension	26
+53	50% Intellectual disability	49% Short stature	39% Microcephaly	37% Intrauterine growth retardation	37% Seizure	23
+54	35% Sparse hair	33% Sparse eyebrow	29% Sparse eyelashes	27% Alopecia	21% Sparse scalp hair	1
+55	49% Cryptorchidism	45% Micrognathia	38% Hypertelorism	36% Low-set ears	33% Short stature	11
+56	37% Nyctalopia	34% Rod-cone dystrophy	32% Reduced visual acuity	22% Photophobia	20% Optic disc pallor	95
+57	61% Epistaxis	52% Bruising susceptibility	44% Menorrhagia	32% Joint hemorrhage	27% Gingival bleeding	5
+58	27% Nail dystrophy	24% Palmoplantar keratoderma	16% Epidermal acanthosis	14% Pruritus	14% Erythema	5
+59	41% Hypertension	34% Hypokalemia	29% Failure to thrive	24% Hepatic steatosis	22% Hepatomegaly	4
+60	63% Microcephaly	57% Short stature	49% Global developmental delay	49% Seizure	47% Intellectual disability	18
+61	35% Pulmonary embolism	32% Deep venous thrombosis	26% Hypercoagulability	19% Cerebral venous thrombosis	16% Pulmonary arterial hypertension	48
+62	36% Scoliosis	33% Bruising susceptibility	30% Hyperextensible skin	30% Pes planus	27% High palate	47
+63	51% Global developmental delay	42% Ataxia	41% Intellectual disability	41% Seizure	39% Dystonia	103
+64	35% Short stature	33% Scoliosis	32% Micrognathia	30% Short neck	25% Cleft palate	9
+65	38% Hypercholesterolemia	28% Hypertension	28% Hypertriglyceridemia	20% Increased LDL cholesterol concentration	18% Decreased HDL cholesterol concentration	11
+66	52% Hepatomegaly	44% Jaundice	40% Elevated hepatic transaminase	32% Cirrhosis	29% Splenomegaly	19
+67	86% Dysarthria	62% Cerebellar atrophy	51% Nystagmus	44% Gait ataxia	39% Hyperreflexia	60
+68	53% Ataxia	47% Dysarthria	42% Cerebellar atrophy	32% Gait ataxia	27% Dysphagia	229
+69	38% Sensorineural hearing impairment	22% Hearing impairment	12% Congenital onset	10% Mixed hearing impairment	10% Progressive sensorineural hearing impairment	33
+70	70% Obesity	67% Rod-cone dystrophy	52% Hypogonadism	48% Intellectual disability	37% Global developmental delay	4
+71	25% Cataract	20% Nystagmus	18% Glaucoma	17% Reduced visual acuity	16% Microphthalmia	25
+72	63% Hypertelorism	36% Micrognathia	30% Depressed nasal bridge	30% Low-set ears	29% Downslanted palpebral fissures	9
+73	56% Male infertility	24% Reduced sperm motility	21% Azoospermia	21% Oligospermia	18% Infertility	2
+74	60% Abdominal pain	29% Diarrhea	22% Vomiting	16% Nausea and vomiting	15% Abdominal distention	20
+75	78% Babinski sign	63% Urinary incontinence	54% Lower limb muscle weakness	54% Pes cavus	50% Spastic gait	112
+76	50% Babinski sign	40% Hyperreflexia	32% Spastic paraplegia	24% Dysarthria	21% Gait disturbance	185
+77	32% Babinski sign	26% Peripheral axonal neuropathy	26% Pes cavus	24% Hyporeflexia	21% Muscle weakness	70
+78	30% Brachydactyly	25% Platyspondyly	22% Short stature	18% Scoliosis	18% Genu valgum	15
+79	12% Basal cell carcinoma	12% Subcutaneous nodule	12% Telangiectasia	11% Cutaneous photosensitivity	11% Erythema	8
+80	64% Global developmental delay	48% Oculomotor apraxia	41% Intellectual disability	40% Ataxia	38% Hydrocephalus	13
